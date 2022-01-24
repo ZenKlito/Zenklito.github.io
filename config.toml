@@ -1,0 +1,4 @@
+baseURL = 'https://zenklito.github.io/'
+languageCode = 'en-us'
+title = 'Zenklito'
+theme = "ananke"
